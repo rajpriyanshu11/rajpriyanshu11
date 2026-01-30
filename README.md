@@ -109,8 +109,8 @@ Currently focused on:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(optional)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/priyanshu-raj-9a2756247/)*
+- 📧 Email: *(priyanshuraj0911@gmail.com)*
 
 ---
 
