@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 🎓 Final-year Engineering student  
 💻 **Backend-focused developer** working with Java & Spring Boot  
@@ -23,20 +23,20 @@ Currently focused on:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🚀 Backend
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-### 🗄️ Databases
+### Databases
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
-### 📱 Android
+### Android
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
 ![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose)
@@ -97,7 +97,7 @@ Currently focused on:
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Backend system design
 - Spring Security advanced concepts
