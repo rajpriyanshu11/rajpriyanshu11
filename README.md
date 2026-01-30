@@ -53,7 +53,7 @@ Currently focused on:
 
 ## 🚀 Featured Projects
 
-### 🌍 Travel Planner App (Major Project)
+### 🌍 Travel Planner App ( TRIVOYA )
 - Android app built using **Jetpack Compose**
 - Backend with **Spring Boot REST APIs**
 - JWT authentication & role-based access
@@ -64,13 +64,14 @@ Currently focused on:
 
 ---
 
-### 🔐 Backend REST API System
+### 🔐 Backend REST API System ( JobTrackerAPI )
 - Spring Boot
 - JWT authentication
 - Role-based authorization
 - Clean layered architecture
 - Dockerized backend
 
+🔗 *https://github.com/rajpriyanshu11/JobTrackerAPI*
 ---
 
 ### 📱 Android Apps
