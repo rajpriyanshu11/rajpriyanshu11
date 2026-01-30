@@ -60,7 +60,7 @@ Currently focused on:
 - PostgreSQL database
 - Trip sharing & itinerary management
 
-🔗 *Repository coming soon*
+🔗 *https://github.com/rajpriyanshu11/Trivoya*
 
 ---
 
